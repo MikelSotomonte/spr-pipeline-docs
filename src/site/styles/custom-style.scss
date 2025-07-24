@@ -12,6 +12,10 @@ body {
     //  }
 .callout[data-callout="quote"] {
     --callout-color: 246, 205, 116;
-    --callout-icon: lucide-align-vertical-space-around;
+    --callout-icon: lucide-box;
+}
+.callout[data-callout="tldr"] {
+    --callout-color: 82, 139, 212;
+    --callout-icon: lucide-film;
 }
 }
