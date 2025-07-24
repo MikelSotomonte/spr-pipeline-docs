@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/website/website/","tags":["gardenEntry"]}
 ---
 
+<script defer src="/_vercel/insights/script.js"></script>
 # Hello! 👋
 
 This is the documentation for the Sprouts🧪 pipeline, mantained by me (Mikel). This is also where I am writing down my thoughts from time to time, so I've split it into two sections:
