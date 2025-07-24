@@ -10,4 +10,8 @@ body {
     //  h1 {
     //   color: black;
     //  }
+.callout[data-callout="quote"] {
+    --callout-color: 246, 205, 116;
+    --callout-icon: lucide-align-vertical-space-around;
+}
 }
