@@ -2,15 +2,16 @@
 {"dg-publish":true,"permalink":"/thoughts/software/software/"}
 ---
 
+A list of software we might use.
 - [[thoughts/software/Blender\|Blender]]
 - [[thoughts/software/Houdini\|Houdini]]
 - [[thoughts/software/Marvelous\|Marvelous]]
 - [[thoughts/software/Maya\|Maya]]
 - [[thoughts/software/Tik Manager\|Tik Manager]]
 - [[thoughts/software/Zbrush\|Zbrush]]
+- [[thoughts/software/djv\|djv]]
 - [[thoughts/software/Substance Painter\|Substance Painter]]
 - [[thoughts/software/DaVinci Resolve\|DaVinci Resolve]]
-- [[thoughts/software/djv\|djv]]
 - [[thoughts/software/Mari\|Mari]]
 - [[thoughts/software/mpv\|mpv]]
 - [[thoughts/software/Nuke\|Nuke]]

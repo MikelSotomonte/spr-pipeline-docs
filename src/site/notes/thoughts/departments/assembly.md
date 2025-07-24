@@ -4,7 +4,7 @@
 
 #pipeline/departments/asset
 
-At least for now, assembly refers to the department where all of the other departments for the [[thoughts/asset\|asset]] type are combined into one [[thoughts/USD\|USD]] file. This is then sublayered into the [[shot\|shot]] departments..
+At least for now, assembly refers to the department where all of the other departments for the [[thoughts/asset\|asset]] type are combined into one [[thoughts/USD\|USD]] file. This is then sublayered into the [[thoughts/shot\|shot]] departments..
 
 The asset hierarchy for [[thoughts/character\|character]], which is the most complex, is this: 
 
