@@ -9,9 +9,9 @@ The [[thoughts/asset\|asset]]s must be made first, and once those are done, we c
 
 # [[thoughts/asset\|asset]]s
 
-All of the [[departments\|departments]]
+All of the [[thoughts/departments/departments\|departments]]
 
-All of the departments will be combined in the [[thoughts/assembly\|assembly]] layer. 
+All of the departments will be combined in the [[thoughts/departments/assembly\|assembly]] layer. 
 
 
-> [!QUOTE] [[thoughts/model\|model]]
+> [!QUOTE] [[thoughts/departments/model\|model]]
