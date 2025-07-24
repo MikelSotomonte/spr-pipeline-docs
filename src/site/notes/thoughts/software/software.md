@@ -4,7 +4,7 @@
 
 [[thoughts/software/Houdini\|Houdini]]
 [[thoughts/software/Maya\|Maya]]
-[[thoughts/Blender\|Blender]]
+[[thoughts/software/Blender\|Blender]]
 [[thoughts/software/Marvelous\|Marvelous]]
 [[thoughts/software/Zbrush\|Zbrush]]
 [[Photoshop\|Photoshop]]
