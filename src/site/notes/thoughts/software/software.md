@@ -5,8 +5,6 @@
 A list of software we might use.
 - [[thoughts/software/Blender\|Blender]]
 - [[thoughts/software/Houdini\|Houdini]]
-- [[thoughts/software/Marvelous\|Marvelous]]
-- [[thoughts/software/Maya\|Maya]]
 - [[thoughts/software/Tik Manager\|Tik Manager]]
 - [[thoughts/software/Zbrush\|Zbrush]]
 - [[thoughts/software/djv\|djv]]
@@ -18,5 +16,7 @@ A list of software we might use.
 - [[thoughts/software/One Drive\|One Drive]]
 - [[thoughts/software/Open RV\|Open RV]]
 - [[thoughts/software/Photoshop\|Photoshop]]
+- [[thoughts/software/Maya\|Maya]]
+- [[thoughts/software/Marvelous\|Marvelous]]
 
 { .block-language-dataview}
