@@ -3,5 +3,5 @@
 ---
 
 
-![underlined_link_hehe.png](/img/user/website/underlined_link_hehe.png)
+![[underlined_link_hehe.png\|underlined_link_hehe.png]]
 ###### An underlined Link!
