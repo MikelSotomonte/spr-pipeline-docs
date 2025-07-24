@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/thoughts/thoughts/"}
 ---
 
-This is the start of thoughts. Have a look around at the graph! (*try increasing the depth to 3*)
+This is the start of thoughts. Have a look around at the graph! (*try increasing the depth to 2 or 3*)
 
 Maybe you can start by checking out.... [[thoughts/pipeline\|pipeline]]? Or perhaps you can check out [[scaling issues\|scaling issues]] if you're curious.
