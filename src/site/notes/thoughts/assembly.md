@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/thoughts/assembly/"}
 ---
 
-Allowed software: [[thoughts/Houdini\|Houdini]].
+Allowed software: [[thoughts/software/Houdini\|Houdini]].
 
 At least for now, assembly refers to the department where all of the other departments for the [[thoughts/asset\|asset]] type are combined into one [[thoughts/USD\|USD]] file. This is then sublayered into the [[shot\|shot]] departments..
 

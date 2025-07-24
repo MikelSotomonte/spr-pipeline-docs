@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/thoughts/solaris/"}
 ---
 
-Solaris is [[thoughts/Houdini\|Houdini]]'s [[thoughts/USD\|USD]] work environment.
+Solaris is [[thoughts/software/Houdini\|Houdini]]'s [[thoughts/USD\|USD]] work environment.
