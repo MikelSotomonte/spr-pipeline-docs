@@ -9,7 +9,7 @@ The [[sprouts/thoughts/asset\|asset]]s must be made first, and once those are do
 
 # [[sprouts/thoughts/asset\|asset]]s
 
-All of the asset [[sprouts/thoughts/departments/department\|department]]s will be combined in the [[sprouts/thoughts/departments/assembly\|assembly]] layer, with the exception of the [[sprouts/thoughts/departments/rig\|rig]] department because it's done in maya and needs to stay there to be taken into  [[animation\|animation]]
+All of the asset [[sprouts/thoughts/department\|department]]s will be combined in the [[sprouts/thoughts/assembly\|assembly]] layer, with the exception of the [[sprouts/thoughts/rig\|rig]] department because it's done in maya and needs to stay there to be taken into  [[animation\|animation]]
 
 
-> [!QUOTE] [[sprouts/thoughts/departments/model\|model]]
+> [!QUOTE] [[sprouts/thoughts/model\|model]]
