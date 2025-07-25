@@ -13,12 +13,12 @@ For these departments, use the /manual/ folder. [[folder structure\|folder struc
 - [[sprouts/thoughts/compositing\|compositing]]
 - [[sprouts/thoughts/FX\|FX]]
 ## [[sprouts/thoughts/asset\|asset]] departments
-- [[sprouts/thoughts/groom\|groom]]
-- [[sprouts/thoughts/lookdev\|lookdev]]
-- [[sprouts/thoughts/rig\|rig]]
 - [[sprouts/thoughts/texture\|texture]]
-- [[sprouts/thoughts/assembly\|assembly]]
+- [[sprouts/thoughts/rig\|rig]]
 - [[sprouts/thoughts/model\|model]]
+- [[sprouts/thoughts/lookdev\|lookdev]]
+- [[sprouts/thoughts/groom\|groom]]
+- [[sprouts/thoughts/assembly\|assembly]]
 
 { .block-language-dataview}
 ## [[sprouts/thoughts/shot\|shot]] departments
