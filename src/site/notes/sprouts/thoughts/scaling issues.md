@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/scaling-issues/","hide":true}
 ---
 
 Different [[sprouts/thoughts/software/software\|software]] have a different scale. For example, [[sprouts/thoughts/software/Blender\|Blender]] and [[sprouts/thoughts/software/Houdini\|Houdini]] work in meters, [[sprouts/thoughts/software/Maya\|Maya]] works in centimeters, and [[sprouts/thoughts/software/Marvelous\|Marvelous]] in millimeters. Why? Idk man, but it's a pain. 

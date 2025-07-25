@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/software/marvelous/","hide":true}
 ---
 
 #pipeline/software 

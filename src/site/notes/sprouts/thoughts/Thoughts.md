@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/"}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/thoughts/"}
 ---
 
 This is the start of thoughts. Have a look around at the graph! (*try increasing the depth to 2 or 3*)

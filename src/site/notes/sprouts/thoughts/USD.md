@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/usd/","hide":true}
 ---
 
 I will be using usd to connect [[sprouts/thoughts/software/Maya\|Maya]] and [[sprouts/thoughts/software/Houdini\|Houdini]] . 

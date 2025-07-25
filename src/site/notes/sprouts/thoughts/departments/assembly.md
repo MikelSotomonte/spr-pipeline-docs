@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/departments/assembly/","hide":true}
 ---
 
 #pipeline/departments/asset

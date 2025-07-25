@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/departments/department/","hide":true}
 ---
 
 ## Departments outside of the pipeline
@@ -24,6 +24,6 @@ For these departments, use the /manual/ folder. [[folder structure\|folder struc
 ## [[sprouts/thoughts/shot\|shot]] departments
 - [[sprouts/thoughts/departments/layout\|layout]]
 - [[lighting\|lighting]]
-- [[sprouts/rendering\|rendering]]
+- [[sprouts/thoughts/rendering\|rendering]]
 - [[sprouts/thoughts/departments/FX\|FX]]
 - [[sprouts/thoughts/departments/compositing\|compositing]]
