@@ -8,6 +8,16 @@ Maybe you can start by checking out.... [[sprouts/thoughts/pipeline\|pipeline]]?
 
 ---
 
+Last 5 changes to Thoughts:
+- [[sprouts/thoughts/layerstack\|layerstack]]: <small>  7:42 PM - July 25, 2025
+- [[sprouts/thoughts/layer\|layer]]: <small>  7:17 PM - July 25, 2025
+- [[sprouts/thoughts/sublayer\|sublayer]]: <small>  7:16 PM - July 25, 2025
+- [[sprouts/thoughts/USD\|USD]]: <small>  7:06 PM - July 25, 2025
+- [[sprouts/thoughts/solaris\|solaris]]: <small>  7:06 PM - July 25, 2025
+
+{ .block-language-dataview}
+---
+
 All of Thoughts, from newest to oldest:
 - [[sprouts/thoughts/sublayer\|sublayer]]
 - [[sprouts/thoughts/layer\|layer]]
