@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/texture.md","permalink":"/thoughts/texture/","hide":true}
+{"dg-publish":true,"dg-path":"texture.md","permalink":"/texture/","hide":true}
 ---
 
 #pipeline/departments/asset 

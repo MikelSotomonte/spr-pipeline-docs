@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/model.md","permalink":"/thoughts/model/","hide":true}
+{"dg-publish":true,"dg-path":"model.md","permalink":"/model/","hide":true}
 ---
 
 #pipeline/departments/asset

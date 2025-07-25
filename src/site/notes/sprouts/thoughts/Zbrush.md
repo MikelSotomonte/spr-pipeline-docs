@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/Zbrush.md","permalink":"/thoughts/zbrush/","hide":true}
+{"dg-publish":true,"dg-path":"Zbrush.md","permalink":"/zbrush/","hide":true}
 ---
 
 #pipeline/software

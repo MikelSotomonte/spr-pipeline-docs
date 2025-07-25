@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/solaris.md","permalink":"/thoughts/solaris/","hide":true}
+{"dg-publish":true,"dg-path":"solaris.md","permalink":"/solaris/","hide":true}
 ---
 
 #usd 

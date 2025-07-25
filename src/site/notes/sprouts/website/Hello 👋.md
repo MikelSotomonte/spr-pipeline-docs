@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"website/Hello 👋.md","permalink":"/website/hello/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Hello 👋.md","permalink":"/hello/","tags":["gardenEntry"]}
 ---
 
 <script defer src="/_vercel/insights/script.js"></script>
@@ -8,7 +8,7 @@
 This is the documentation for the Sprouts🧪 pipeline, maintained by me (Mikel). This is also where I am writing down my thoughts from time to time, so I've split it into two sections:
 
  - [[sprouts/website/Thoughts\|Thoughts]]: A connected jumble of thoughts and notes. I use this to try to keep track of everything design and architecture as the pipeline evolves. This section might even cover more than just pipeline, but that will probably be the main focus.
- - [[sprouts/docs/Docs\|Docs]]: more organized documentation meant to actually be read and used by you. 
+ - [[sprouts/docs/Docs\|Docs]]: More organized documentation meant to actually be read and used by you. It might point to things in [[sprouts/website/Thoughts\|Thoughts]], but in a structured way.
 
 ---
 

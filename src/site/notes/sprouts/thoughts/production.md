@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/production.md","permalink":"/thoughts/production/","hide":true}
+{"dg-publish":true,"dg-path":"production.md","permalink":"/production/","hide":true}
 ---
 
 #pipeline/departments/outside-of-pipeline 

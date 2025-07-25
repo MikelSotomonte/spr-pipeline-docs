@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/software.md","permalink":"/thoughts/software/","hide":true}
+{"dg-publish":true,"dg-path":"software.md","permalink":"/software/","hide":true}
 ---
 
 A list of software we might use.

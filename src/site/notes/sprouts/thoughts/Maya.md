@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/Maya.md","permalink":"/thoughts/maya/","hide":true}
+{"dg-publish":true,"dg-path":"Maya.md","permalink":"/maya/","hide":true}
 ---
 
 #pipeline/software 

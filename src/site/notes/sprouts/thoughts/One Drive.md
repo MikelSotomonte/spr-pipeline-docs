@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/One Drive.md","permalink":"/thoughts/one-drive/","hide":true}
+{"dg-publish":true,"dg-path":"One Drive.md","permalink":"/one-drive/","hide":true}
 ---
 
 #pipeline/software

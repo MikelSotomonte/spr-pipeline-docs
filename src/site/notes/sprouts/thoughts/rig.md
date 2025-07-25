@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/rig.md","permalink":"/thoughts/rig/","hide":true}
+{"dg-publish":true,"dg-path":"rig.md","permalink":"/rig/","hide":true}
 ---
 
 #pipeline/departments/asset 

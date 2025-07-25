@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/FX.md","permalink":"/thoughts/fx/","hide":true}
+{"dg-publish":true,"dg-path":"FX.md","permalink":"/fx/","hide":true}
 ---
 
 #pipeline/departments/shot

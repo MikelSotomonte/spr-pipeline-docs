@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/djv.md","permalink":"/thoughts/djv/","hide":true}
+{"dg-publish":true,"dg-path":"djv.md","permalink":"/djv/","hide":true}
 ---
 
 

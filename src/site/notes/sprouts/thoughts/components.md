@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/components.md","permalink":"/thoughts/components/","hide":true}
+{"dg-publish":true,"dg-path":"components.md","permalink":"/components/","hide":true}
 ---
 

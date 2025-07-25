@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/edit.md","permalink":"/thoughts/edit/","hide":true}
+{"dg-publish":true,"dg-path":"edit.md","permalink":"/edit/","hide":true}
 ---
 
 #pipeline/departments/outside-of-pipeline

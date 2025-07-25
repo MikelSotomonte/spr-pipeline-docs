@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/groom.md","permalink":"/thoughts/groom/","hide":true}
+{"dg-publish":true,"dg-path":"groom.md","permalink":"/groom/","hide":true}
 ---
 
 #pipeline/departments/asset 

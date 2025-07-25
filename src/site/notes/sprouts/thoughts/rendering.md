@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/rendering.md","permalink":"/thoughts/rendering/","hide":true}
+{"dg-publish":true,"dg-path":"rendering.md","permalink":"/rendering/","hide":true}
 ---
 
 

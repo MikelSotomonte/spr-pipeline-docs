@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/sprouts.md","permalink":"/thoughts/sprouts/","hide":true}
+{"dg-publish":true,"dg-path":"sprouts.md","permalink":"/sprouts/","hide":true}
 ---
 
 Sprouts, is the final degree project i will be doing at uni with uni colleagues.

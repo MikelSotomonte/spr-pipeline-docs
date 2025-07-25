@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/layerstack.md","permalink":"/thoughts/layerstack/","hide":true}
+{"dg-publish":true,"dg-path":"layerstack.md","permalink":"/layerstack/","hide":true}
 ---
 
 #usd

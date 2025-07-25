@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/Houdini.md","permalink":"/thoughts/houdini/","hide":true}
+{"dg-publish":true,"dg-path":"Houdini.md","permalink":"/houdini/","hide":true}
 ---
 
 #pipeline/software
