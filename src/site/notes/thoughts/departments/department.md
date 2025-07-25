@@ -13,16 +13,17 @@ For these departments, use the /manual/ folder. [[folder structure\|folder struc
 - [[thoughts/departments/compositing\|compositing]]
 - [[thoughts/departments/FX\|FX]]
 ## [[thoughts/asset\|Asset]] departments
-- [[thoughts/departments/assembly\|assembly]]
+- [[thoughts/departments/texture\|texture]]
+- [[thoughts/departments/rig\|rig]]
 - [[thoughts/departments/model\|model]]
 - [[thoughts/departments/lookdev\|lookdev]]
 - [[thoughts/departments/groom\|groom]]
-- [[thoughts/departments/texture\|texture]]
-- [[thoughts/departments/rig\|rig]]
+- [[thoughts/departments/assembly\|assembly]]
 
 { .block-language-dataview}
 ## [[thoughts/shot\|shot]] departments
 - [[thoughts/departments/layout\|layout]]
 - [[lighting\|lighting]]
+- [[rendering\|rendering]]
 - [[thoughts/departments/FX\|FX]]
 - [[thoughts/departments/compositing\|compositing]]
