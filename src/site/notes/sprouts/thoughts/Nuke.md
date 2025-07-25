@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/nuke/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/Nuke.md","permalink":"/thoughts/nuke/","hide":true}
 ---
 
 #pipeline/software

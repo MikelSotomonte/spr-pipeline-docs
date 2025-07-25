@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/blender/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/Blender.md","permalink":"/thoughts/blender/","hide":true}
 ---
 
 #pipeline/software

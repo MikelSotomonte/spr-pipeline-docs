@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/department/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/department.md","permalink":"/thoughts/department/","hide":true}
 ---
 
 ## Departments outside of the pipeline

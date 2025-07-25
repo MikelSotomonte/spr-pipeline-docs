@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/rendering/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/rendering.md","permalink":"/thoughts/rendering/","hide":true}
 ---
 
 
