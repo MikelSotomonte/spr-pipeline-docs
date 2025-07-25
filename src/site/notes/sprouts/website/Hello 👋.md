@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/website/hello/","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/sprouts/website/hello/","tags":["gardenEntry"]}
 ---
 
 <script defer src="/_vercel/insights/script.js"></script>
