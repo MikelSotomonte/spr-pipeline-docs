@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/software.md","permalink":"/thoughts/software/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/software/","hide":true}
 ---
 
 A list of software we might use.
-- [[sprouts/thoughts/Tik Manager\|Tik Manager]]
 - [[sprouts/thoughts/Zbrush\|Zbrush]]
+- [[sprouts/thoughts/Tik Manager\|Tik Manager]]
 - [[sprouts/thoughts/Substance Painter\|Substance Painter]]
 - [[sprouts/thoughts/Photoshop\|Photoshop]]
 - [[sprouts/thoughts/Open RV\|Open RV]]

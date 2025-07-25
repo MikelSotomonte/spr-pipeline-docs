@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/pipeline.md","permalink":"/thoughts/pipeline/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/pipeline/","hide":true}
 ---
 
 This is a casual way of jotting down all my thoughts and to-do's that I'd like to have in the [[sprouts/thoughts/sprouts\|sprouts]] pipeline.

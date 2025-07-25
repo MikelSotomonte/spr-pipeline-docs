@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thoughts/layout.md","permalink":"/thoughts/layout/","hide":true}
+{"dg-publish":true,"permalink":"/sprouts/thoughts/layout/","hide":true}
 ---
 
 #pipeline/departments/shot 
