@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"sublayer.md","permalink":"/sublayer/"}
+{"dg-publish":true,"dg-path":"sublayer.md","permalink":"/sublayer/","hide":true}
 ---
 
 #usd 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"layer.md","permalink":"/layer/"}
+{"dg-publish":true,"dg-path":"layer.md","permalink":"/layer/","hide":true}
 ---
 
 #usd
