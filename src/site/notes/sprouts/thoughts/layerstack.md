@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/layerstack/","hide":true}
+{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
 ---
 
 This is the order of the layer stack as far as I can foresee.

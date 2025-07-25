@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/library/","hide":true}
+{"dg-publish":true,"dg-path":"/sprouts","permalink":"//sprouts/","hide":true}
 ---
 
 Downloaded assets, ingested into the pipeline.
