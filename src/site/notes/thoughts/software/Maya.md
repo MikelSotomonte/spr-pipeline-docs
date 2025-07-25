@@ -3,4 +3,4 @@
 ---
 
 #pipeline/software 
-[[scaling issues\|scaling issues]]
+[[thoughts/scaling issues\|scaling issues]]

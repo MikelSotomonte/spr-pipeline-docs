@@ -6,4 +6,4 @@
 
 Cloth [[thoughts/departments/model\|model]]ing and [[thoughts/simulation\|simulation]] [[thoughts/software/software\|software]]. In this project, we will only use it for modeling, not for simulation.
 
-related: [[scaling issues\|scaling issues]]
+related: [[thoughts/scaling issues\|scaling issues]]
