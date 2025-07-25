@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/software/software/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/software/software.md","permalink":"/thoughts/software/software/","hide":true}
 ---
 
 A list of software we might use.

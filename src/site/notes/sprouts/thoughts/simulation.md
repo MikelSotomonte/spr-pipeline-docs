@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/simulation/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/simulation.md","permalink":"/thoughts/simulation/","hide":true}
 ---
 

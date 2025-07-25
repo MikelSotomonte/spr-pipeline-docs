@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/software/mpv/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/software/mpv.md","permalink":"/thoughts/software/mpv/","hide":true}
 ---
 
 #pipeline/software

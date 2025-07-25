@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/software/djv/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/software/djv.md","permalink":"/thoughts/software/djv/","hide":true}
 ---
 
 

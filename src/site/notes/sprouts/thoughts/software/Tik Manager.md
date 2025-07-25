@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/software/tik-manager/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/software/Tik Manager.md","permalink":"/thoughts/software/tik-manager/","hide":true}
 ---
 
 #pipeline/software 

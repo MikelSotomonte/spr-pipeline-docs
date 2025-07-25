@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/departments/fx/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/departments/FX.md","permalink":"/thoughts/departments/fx/","hide":true}
 ---
 
 #pipeline/departments/shot

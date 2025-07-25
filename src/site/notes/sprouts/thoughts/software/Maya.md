@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/software/maya/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/software/Maya.md","permalink":"/thoughts/software/maya/","hide":true}
 ---
 
 #pipeline/software 

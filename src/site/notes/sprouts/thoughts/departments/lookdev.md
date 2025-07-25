@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sprouts/thoughts/departments/lookdev/","hide":true}
+{"dg-publish":true,"dg-path":"thoughts/departments/lookdev.md","permalink":"/thoughts/departments/lookdev/","hide":true}
 ---
 
 #pipeline/departments/asset 
