@@ -12,11 +12,11 @@ A list of software we might use.
 - [[sprouts/thoughts/Nuke\|Nuke]]
 - [[sprouts/thoughts/mpv\|mpv]]
 - [[sprouts/thoughts/Maya\|Maya]]
-- [[sprouts/thoughts/Marvelous\|Marvelous]]
 - [[sprouts/thoughts/Mari\|Mari]]
+- [[sprouts/thoughts/Marvelous\|Marvelous]]
 - [[sprouts/thoughts/Houdini\|Houdini]]
 - [[sprouts/thoughts/djv\|djv]]
-- [[sprouts/thoughts/DaVinci Resolve\|DaVinci Resolve]]
 - [[sprouts/thoughts/Blender\|Blender]]
+- [[sprouts/thoughts/DaVinci Resolve\|DaVinci Resolve]]
 
 { .block-language-dataview}

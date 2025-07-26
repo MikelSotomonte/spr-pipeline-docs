@@ -9,16 +9,17 @@ Maybe you can start by checking out.... [[sprouts/thoughts/pipeline\|pipeline]]?
 ---
 
 Last changes to Thoughts:
-- [[sprouts/thoughts/layerstack\|layerstack]]: <small> 8:30 PM - July 25, 2025</small>
-- [[sprouts/thoughts/layer\|layer]]: <small> 7:17 PM - July 25, 2025</small>
-- [[sprouts/thoughts/sublayer\|sublayer]]: <small> 7:16 PM - July 25, 2025</small>
-- [[sprouts/thoughts/USD\|USD]]: <small> 7:06 PM - July 25, 2025</small>
-- [[sprouts/thoughts/solaris\|solaris]]: <small> 7:06 PM - July 25, 2025</small>
+- [[sprouts/thoughts/solaris\|solaris]]: <small> 5:34 PM - July 26, 2025</small>
+- [[sprouts/thoughts/layerstack\|layerstack]]: <small> 5:32 PM - July 26, 2025</small>
+- [[sprouts/thoughts/assembly\|assembly]]: <small> 5:32 PM - July 26, 2025</small>
+- [[sprouts/thoughts/set\|set]]: <small> 5:31 PM - July 26, 2025</small>
+- [[sprouts/thoughts/scaling issues\|scaling issues]]: <small> 1:01 AM - July 26, 2025</small>
 
 { .block-language-dataview}
 ---
 
 All of Thoughts, from newest to oldest:
+- [[sprouts/thoughts/lighting\|lighting]]
 - [[sprouts/thoughts/sublayer\|sublayer]]
 - [[sprouts/thoughts/layer\|layer]]
 - [[sprouts/thoughts/rendering\|rendering]]

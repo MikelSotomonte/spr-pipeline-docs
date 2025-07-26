@@ -23,7 +23,7 @@ For these departments, use the /manual/ folder. [[folder structure\|folder struc
 { .block-language-dataview}
 ## [[sprouts/thoughts/shot\|shot]] departments
 - [[sprouts/thoughts/layout\|layout]]
-- [[lighting\|lighting]]
+- [[sprouts/thoughts/lighting\|lighting]]
 - [[sprouts/thoughts/rendering\|rendering]]
 - [[sprouts/thoughts/FX\|FX]]
 - [[sprouts/thoughts/compositing\|compositing]]

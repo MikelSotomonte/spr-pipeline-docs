@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"scaling issues.md","permalink":"/scaling-issues/","hide":true}
 ---
 
-Different [[sprouts/thoughts/software\|software]] have a different scale. For example, [[sprouts/thoughts/Blender\|Blender]] and [[sprouts/thoughts/Houdini\|Houdini]] work in meters, [[sprouts/thoughts/Maya\|Maya]] works in centimeters, and [[sprouts/thoughts/Marvelous\|Marvelous]] in millimeters. Why? Idk man, but it's a pain. 
+Different [[sprouts/thoughts/software\|softwares]] have a different scale. For example, [[sprouts/thoughts/Blender\|Blender]] and [[sprouts/thoughts/Houdini\|Houdini]] work in meters, [[sprouts/thoughts/Maya\|Maya]] works in centimeters, and [[sprouts/thoughts/Marvelous\|Marvelous]] in millimeters. Why? Idk man, but it's a pain. 
 
 I am mostly concerned about Maya and Houdini playing nicely together. Because of houdini's nature, and because it comes last in the 3d pipeline, we will be doing all of the scaling fixes in houdini.
 
