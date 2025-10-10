@@ -7,5 +7,7 @@
 
 # [[sprouts/docs/2. Houdini quick start\|2. Houdini quick start]] 
 
+# [[3. Layout - before we have TIK manager installed in uni\|3. Layout - before we have TIK manager installed in uni]] 
+
 Have fun reading :P
 ![blender_fallcat.gif](/img/user/sprouts/website/blender_fallcat.gif)
