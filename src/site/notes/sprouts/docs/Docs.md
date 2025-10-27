@@ -11,6 +11,9 @@
 # [[3. Layout\|3. Layout]]
 
 
-Have fun reading :P
-![blender_fallcat.gif](/img/user/sprouts/website/blender_fallcat.gif)
+
+
+![the_gang.png](/img/user/sprouts/website/the_gang.png)
+[[sprouts/website/Hello 👋\|What is this website?]]
+
 

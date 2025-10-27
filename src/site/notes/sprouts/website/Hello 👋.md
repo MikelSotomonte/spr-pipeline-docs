@@ -5,10 +5,10 @@
 <script defer src="/_vercel/insights/script.js"></script>
 # Hello! 👋
 
-This is the documentation for the Sprouts🧪 pipeline, maintained by me (Mikel). This is also where I am writing down my thoughts from time to time, so I've split it into two sections:
+This is the documentation for the Sprouts🧪 pipeline and project, maintained by me (Mikel). This is also where I am writing down my thoughts from time to time, so I've split it into two sections:
 
- - [[sprouts/website/Thoughts\|Thoughts]]: A connected jumble of thoughts and notes. I use this to try to keep track of everything design and architecture as the pipeline evolves. This section might even cover more than just pipeline, but that will probably be the main focus.
- - [[sprouts/docs/Docs\|Docs]]: More organized documentation meant to actually be read and used by you. It might point to things in [[sprouts/website/Thoughts\|Thoughts]], but in a structured way.
+ - [[sprouts/website/Thoughts\|Thoughts]]: A connected jumble of thoughts and notes. Fun to look around if you're curious, but I won't be maintaining this on the long-run, it's just nice to have some random notes here.
+ - [[sprouts/docs/Docs\|Docs]]: More organized documentation meant to actually be read and used by you. 
 
 ---
 
@@ -20,5 +20,4 @@ Hover on an [[sprouts/website/underlined link\|underlined link]] to preview it's
 
 On the left, you can see all of the pages. This will be more handy if you're trying to navigate the [[sprouts/docs/Docs\|Docs]] rather than the [[sprouts/website/Thoughts\|Thoughts]].
 
-Lastly, you can click on the top, where it says "Sprouts Pipeline" to come back to this page.
-![the_gang.png](/img/user/sprouts/website/the_gang.png)
+![blender_fallcat.gif](/img/user/sprouts/website/blender_fallcat.gif)
