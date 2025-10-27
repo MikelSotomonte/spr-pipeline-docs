@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Hello 👋.md","permalink":"/hello/","hide":true,"tags":["gardenEntry"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Hello 👋.md","permalink":"/hello/","hide":true,"dgShowFileTree":true}
 ---
 
 <script defer src="/_vercel/insights/script.js"></script>
