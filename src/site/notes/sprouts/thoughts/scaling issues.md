@@ -14,5 +14,10 @@ Cameras don't have vertices, so you can only change its transforms (location, ro
 Scaling the camera is a big no-no, as it will mess with the math that allows rendering and it can give unexpected results. The solution is to multiply the coordinates of the location of the camera instead. This is a script that does exactly that, add it to an attribute wrangle in solaris.
 
 ```
-string primpath = s@primpath; // Read/process/write with time support vector translate = usd_attrib(0, primpath, "xformOp:translate", @Frame); translate *= 0.01; usd_setattrib(0, primpath, "xformOp:translate", translate);
+string primpath = s@primpath;
+
+// Read/process/write with time support
+vector translate = usd_attrib(0, primpath, "xformOp:translate", @Frame);
+translate *= 0.01;
+usd_setattrib(0, primpath, "xformOp:translate", translate);
 ```
