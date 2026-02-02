@@ -9,11 +9,11 @@ Maybe you can start by checking out.... [[sprouts/thoughts/pipeline\|pipeline]]?
 ---
 
 Last changes to Thoughts:
+- [[sprouts/thoughts/scaling issues\|scaling issues]]: <small> 3:25 PM - October 27, 2025</small>
 - [[sprouts/thoughts/solaris\|solaris]]: <small> 5:34 PM - July 26, 2025</small>
 - [[sprouts/thoughts/layerstack\|layerstack]]: <small> 5:32 PM - July 26, 2025</small>
 - [[sprouts/thoughts/assembly\|assembly]]: <small> 5:32 PM - July 26, 2025</small>
 - [[sprouts/thoughts/set\|set]]: <small> 5:31 PM - July 26, 2025</small>
-- [[sprouts/thoughts/scaling issues\|scaling issues]]: <small> 1:01 AM - July 26, 2025</small>
 
 { .block-language-dataview}
 ---

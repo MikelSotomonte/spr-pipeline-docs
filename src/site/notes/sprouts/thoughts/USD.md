@@ -18,10 +18,10 @@ This is THE video to watch if you want to learn how to use USD in Solaris. It's 
 
 ---
 Some USD-related stuff I've written about:
+- [[sprouts/thoughts/USD\|USD]]
 - [[sprouts/thoughts/sublayer\|sublayer]]
 - [[sprouts/thoughts/solaris\|solaris]]
 - [[sprouts/thoughts/layerstack\|layerstack]]
 - [[sprouts/thoughts/layer\|layer]]
-- [[sprouts/thoughts/USD\|USD]]
 
 { .block-language-dataview}
