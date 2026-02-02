@@ -11,10 +11,11 @@
 # [[sprouts/docs/3. Layout\|3. Layout]]
 
 # [[sprouts/docs/4. Animation\|4. Animation]]
+
 ---
 Last changes to Docs:
+- [[sprouts/docs/Docs\|Docs]]: <small> 1:21 AM - February 01, 2026</small>
 - [[sprouts/docs/4. Animation\|4. Animation]]: <small> 1:20 AM - February 01, 2026</small>
-- [[sprouts/docs/Docs\|Docs]]: <small> 12:48 AM - February 01, 2026</small>
 - [[sprouts/docs/1. Global values\|1. Global values]]: <small> 4:12 PM - November 07, 2025</small>
 - [[sprouts/docs/3. Layout\|3. Layout]]: <small> 12:34 PM - October 28, 2025</small>
 - [[sprouts/docs/3. Layout - before we have TIK manager installed in uni\|3. Layout - before we have TIK manager installed in uni]]: <small> 1:32 PM - October 24, 2025</small>
